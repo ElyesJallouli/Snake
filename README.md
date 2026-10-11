@@ -1,4 +1,4 @@
-I made a snake game with Unity. 
+I made a snake game with Unity in preparation to get into university. 
 This is a video demo of the game : 
 
 
